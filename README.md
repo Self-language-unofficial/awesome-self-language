@@ -11,7 +11,7 @@ What is Self? See https://selflanguage.org/
 * Self "Mandarin" 2017.1 is available from https://selflanguage.org/
 * OurSelf.io 
 * ZigSelf is an implementation of Self in the Zig programming language https://github.com/sin-ack/zigself
-* 
+* Self interpreter in Python https://github.com/pinneyja/self-interpreter
 
 
 ## projects
